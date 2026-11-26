@@ -1,1 +1,1 @@
-# seungwon-random-2026/random-app0
+#random-app0
